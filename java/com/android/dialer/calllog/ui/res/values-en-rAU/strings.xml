@@ -3,8 +3,8 @@
   <string name="a11y_new_call_log_entry_tap_action">expand menu</string>
   <string name="a11y_new_call_log_entry_voice_call">call ^1</string>
   <string name="a11y_new_call_log_entry_video_call">make a video call to ^1</string>
-  <string name="new_call_log_header_today">Today</string>
-  <string name="new_call_log_header_yesterday">Yesterday</string>
-  <string name="new_call_log_header_older">Older</string>
+  <string name="new_call_log_header_today">TODAY</string>
+  <string name="new_call_log_header_yesterday">YESTERDAY</string>
+  <string name="new_call_log_header_older">OLDER</string>
   <string name="new_call_log_permission_no_calllog">To see your call log, turn on the Phone permission.</string>
 </resources>

@@ -31,7 +31,7 @@
   This is especially valuable for views without textual representation like ImageView.
 
   [CHAR LIMIT=NONE] -->
-  <string name="callHistoryIconLabel" tools:ignore="UnusedResources">Call history</string>
+  <string name="callHistoryIconLabel" tools:ignore="UnusedResources">Call History</string>
 
   <!-- Option displayed in context menu to copy long pressed phone number. [CHAR LIMIT=48] -->
   <string name="action_copy_number_text">Copy number</string>
@@ -142,7 +142,7 @@
 
   <!-- Content description for the fake action menu button that brings up the call history
        activity -->
-  <string name="action_menu_call_history_description">Call history</string>
+  <string name="action_menu_call_history_description">Call History</string>
 
   <!-- Content description for the fake action menu overflow button.
        This should be same as the description for the real action menu
@@ -244,13 +244,13 @@
     <item quantity="other"><b>Delete these voicemails? </b></item>
   </plurals>
 
-  <!-- The string 'Today'. This value is used in the voicemailCallLogDateTimeFormat rather than an
+  <!-- The string 'TODAY'. This value is used in the voicemailCallLogDateTimeFormat rather than an
        explicit date string, e.g. Jul 25, 2014, in the event that a voicemail was created on the
        current day -->
-  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
+  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
 
   <!-- A format string used for displaying the date and time for a voicemail call log. For example: Jul 25, 2014 at 2:49 PM
-       The date will be replaced by 'Today' for voicemails created on the current day. For example: Today at 2:49 PM -->
+       The date will be replaced by 'TODAY' for voicemails created on the current day. For example: TODAY at 2:49 PM -->
   <string name="voicemailCallLogDateTimeFormat"><xliff:g example="Jul 25, 2014" id="date">%1$s</xliff:g> at <xliff:g example="2:49 PM" id="time">%2$s</xliff:g></string>
 
   <!-- Format for duration of voicemails which are displayed when viewing voicemail logs. For example "01:22" -->
@@ -264,7 +264,7 @@
 
   <!-- Hint displayed in dialer search box when there is no query that is currently typed.
        [CHAR LIMIT=30] -->
-  <string name="dialer_hint_find_contact">Search contacts</string>
+  <string name="dialer_hint_find_contact">Search Contacts</string>
 
   <!-- Hint displayed in add blocked number search box when there is no query typed.
        [CHAR LIMIT=45] -->
@@ -457,15 +457,15 @@
 
   <!-- String used as a header in the call log above calls which occurred today.
        [CHAR LIMIT=65] -->
-  <string name="call_log_header_today">Today</string>
+  <string name="call_log_header_today">TODAY</string>
 
   <!-- String used as a header in the call log above calls which occurred yesterday.
        [CHAR LIMIT=65] -->
-  <string name="call_log_header_yesterday">Yesterday</string>
+  <string name="call_log_header_yesterday">YESTERDAY</string>
 
   <!-- String used as a header in the call log above calls which occurred two days or more ago.
        [CHAR LIMIT=65] -->
-  <string name="call_log_header_other">Older</string>
+  <string name="call_log_header_other">OLDER</string>
 
   <!-- String describing the "speaker on" button on the playback control used to listen to a
        voicemail message.  When speaker is on, playback of the voicemail will occur through the

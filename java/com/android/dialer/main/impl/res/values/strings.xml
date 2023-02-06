@@ -24,7 +24,7 @@
   <!-- Text for a toolbar button that shows the user their contacts [CHAR LIMIT=NONE] -->
   <string name="search">@android:string/search_go</string>
   <!-- A11y announcement to let users know a button will let them search for contacts and places [CHAR LIMIT=NONE] -->
-  <string name="description_search">Search contacts and places</string>
+  <string name="description_search">Search Contacts and places</string>
 
   <!-- Text for a toolbar button that shows the user their contacts [CHAR LIMIT=NONE] -->
   <string name="contacts">Contacts</string>

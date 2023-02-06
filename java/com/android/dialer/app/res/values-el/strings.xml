@@ -57,7 +57,7 @@
     <item quantity="one"><b>Διαγραφή αυτού του μηνύματος αυτόματου τηλεφωνητή; </b></item>
     <item quantity="other"><b>Διαγραφή αυτών των μηνυμάτων αυτόματου τηλεφωνητή; </b></item>
   </plurals>
-  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
+  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s στις %2$s</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

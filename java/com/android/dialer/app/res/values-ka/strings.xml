@@ -57,7 +57,7 @@
     <item quantity="one"><b>გსურთ ამ ხმოვანი შეტყობინების წაშლა? </b></item>
     <item quantity="other"><b>გსურთ ამ ხმოვანი შეტყობინებების წაშლა? </b></item>
   </plurals>
-  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
+  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s, %2$s</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

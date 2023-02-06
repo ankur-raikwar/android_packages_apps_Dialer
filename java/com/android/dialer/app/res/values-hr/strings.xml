@@ -59,7 +59,7 @@
     <item quantity="few"><b>Želite li izbrisati ove poruke govorne pošte? </b></item>
     <item quantity="other"><b>Želite li izbrisati ove poruke govorne pošte? </b></item>
   </plurals>
-  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
+  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s u %2$s</string>
   <string name="voicemailDurationFormat">%1$02d.%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

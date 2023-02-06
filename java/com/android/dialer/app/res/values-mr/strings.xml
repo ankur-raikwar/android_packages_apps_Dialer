@@ -57,7 +57,7 @@
     <item quantity="one"><b>हा व्हॉइसमेल हटवायचा? </b></item>
     <item quantity="other"><b>हे व्हॉइसमेल हटवायचे? </b></item>
   </plurals>
-  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
+  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s रोजी %2$s वाजता</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

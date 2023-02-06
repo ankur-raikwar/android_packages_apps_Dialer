@@ -33,14 +33,14 @@
 
   <!-- Hint displayed in dialer search box when there is no query that is currently typed.
        [CHAR LIMIT=30] -->
-  <string name="dialer_hint_find_contact">Search contacts</string>
+  <string name="dialer_hint_find_contact">Search Contacts</string>
 
   <!-- Show users their settings [CHAR LIMIT=20] -->
   <string name="settings">Settings</string>
 
   <!-- Content description for the fake action menu button that brings up the call history
        activity [CHAR LIMIT=20] -->
-  <string name="main_menu_call_history">Call history</string>
+  <string name="main_menu_call_history">Call History</string>
 
   <!--  The menu item to clear frequents [CHAR LIMIT=30] -->
   <string name="main_menu_clear_frequents">Clear frequents</string>

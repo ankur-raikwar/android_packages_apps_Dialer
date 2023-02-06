@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="applicationLabel">Phone</string>
   <string name="launcherDialpadActivityLabel">Phone keypad</string>
-  <string name="callHistoryIconLabel">Call history</string>
+  <string name="callHistoryIconLabel">Call History</string>
   <string name="action_copy_number_text">Copy number</string>
   <string name="copy_transcript_text">Copy transcription</string>
   <string name="action_edit_number_before_call">Edit number before call</string>
@@ -33,7 +33,7 @@
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="description_playback_speakerphone">Switch on or off speakerphone</string>
   <string name="description_playback_seek">Seek playback position</string>
-  <string name="action_menu_call_history_description">Call history</string>
+  <string name="action_menu_call_history_description">Call History</string>
   <string msgid="2295659037509008453" name="action_menu_overflow_description">More options</string>
   <string name="action_menu_dialpad_button">key pad</string>
   <string name="dialer_settings_label">Settings</string>
@@ -57,22 +57,22 @@
     <item quantity="one"><b>Delete this voicemail? </b></item>
     <item quantity="other"><b>Delete these voicemails? </b></item>
   </plurals>
-  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
+  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s at %2$s</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>
   <string name="voice_search_not_available">Voice search not available</string>
-  <string name="dialer_hint_find_contact">Search contacts</string>
+  <string name="dialer_hint_find_contact">Search Contacts</string>
   <string name="block_number_search_hint">Add number or search contacts</string>
   <string name="call_log_all_empty">Your call history is empty</string>
   <string name="call_log_all_empty_action">Make a call</string>
   <string name="call_log_missed_empty">You have no missed calls.</string>
   <string name="call_log_voicemail_empty">Your voicemail inbox is empty.</string>
-  <string name="call_log_activity_title">Call history</string>
+  <string name="call_log_activity_title">Call History</string>
   <string name="call_log_all_title">All</string>
   <string name="call_log_missed_title">Missed</string>
   <string name="tab_speed_dial">Speed dial</string>
-  <string name="tab_history">Call history</string>
+  <string name="tab_history">Call History</string>
   <string name="tab_all_contacts">Contacts</string>
   <string name="tab_voicemail">Voicemail</string>
   <string name="search_shortcut_call_number">Call %s</string>
@@ -105,9 +105,9 @@
   <string name="description_create_new_contact_action">Create contact for ^1</string>
   <string name="description_add_to_existing_contact_action">Add ^1 to existing contact</string>
   <string name="description_details_action">Call details for ^1</string>
-  <string name="call_log_header_today">Today</string>
-  <string name="call_log_header_yesterday">Yesterday</string>
-  <string name="call_log_header_other">Older</string>
+  <string name="call_log_header_today">TODAY</string>
+  <string name="call_log_header_yesterday">YESTERDAY</string>
+  <string name="call_log_header_other">OLDER</string>
   <string name="voicemail_speaker_on">Turn speaker on.</string>
   <string name="voicemail_speaker_off">Turn speaker off.</string>
   <string name="voicemail_play_start_pause">Start or pause playback.</string>
