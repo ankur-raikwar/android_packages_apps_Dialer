@@ -57,7 +57,7 @@
     <item quantity="one"><b>¿Deseas borrar este mensaje de voz? </b></item>
     <item quantity="other"><b>¿Deseas borrar estos mensajes de voz? </b></item>
   </plurals>
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">El %1$s a la hora %2$s</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

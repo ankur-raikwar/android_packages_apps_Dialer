@@ -57,7 +57,7 @@
     <item quantity="one"><b>이 음성사서함을 삭제하시겠습니까? </b></item>
     <item quantity="other"><b>이 음성사서함을 삭제하시겠습니까? </b></item>
   </plurals>
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s %2$s</string>
   <string name="voicemailDurationFormat">%1$02d분 %2$02d초</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

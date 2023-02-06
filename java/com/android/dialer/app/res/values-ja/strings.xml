@@ -57,7 +57,7 @@
     <item quantity="one"><b>このボイスメールを削除しますか？</b></item>
     <item quantity="other"><b>これらのボイスメールを削除しますか？</b></item>
   </plurals>
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s、%2$s</string>
   <string name="voicemailDurationFormat">%1$02d 分 %2$02d 秒</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s（%2$s）</string>

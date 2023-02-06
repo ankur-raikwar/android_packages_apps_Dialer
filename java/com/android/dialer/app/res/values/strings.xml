@@ -247,7 +247,7 @@
   <!-- The string 'TODAY'. This value is used in the voicemailCallLogDateTimeFormat rather than an
        explicit date string, e.g. Jul 25, 2014, in the event that a voicemail was created on the
        current day -->
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
 
   <!-- A format string used for displaying the date and time for a voicemail call log. For example: Jul 25, 2014 at 2:49 PM
        The date will be replaced by 'TODAY' for voicemails created on the current day. For example: TODAY at 2:49 PM -->

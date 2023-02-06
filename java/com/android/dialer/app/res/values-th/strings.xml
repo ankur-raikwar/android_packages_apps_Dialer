@@ -57,7 +57,7 @@
     <item quantity="one"><b>ลบข้อความเสียงนี้ไหม </b></item>
     <item quantity="other"><b>ลบข้อความเสียงเหล่านี้ไหม </b></item>
   </plurals>
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">วันที่ %1$s เวลา %2$s</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

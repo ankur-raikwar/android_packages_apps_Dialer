@@ -57,7 +57,7 @@
     <item quantity="one"><b>Je, unataka kufuta ujumbe huu wa sauti? </b></item>
     <item quantity="other"><b>Je, unataka kufuta kila ujumbe wa sauti ulioonyeshwa? </b></item>
   </plurals>
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s saa %2$s</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

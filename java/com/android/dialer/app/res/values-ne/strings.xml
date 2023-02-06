@@ -57,7 +57,7 @@
     <item quantity="one"><b>यो भ्वाइस मेल मेट्ने हो? </b></item>
     <item quantity="other"><b>यी भ्वाइस मेलहरू मेट्ने हो? </b></item>
   </plurals>
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s मा %2$s</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

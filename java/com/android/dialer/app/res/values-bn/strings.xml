@@ -57,7 +57,7 @@
     <item quantity="one"><b>এই ভয়েসমেলগুলি মুছবেন? </b></item>
     <item quantity="other"><b>এই ভয়েসমেলগুলি মুছবেন? </b></item>
   </plurals>
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s তারিখে %2$s\'টায়</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>

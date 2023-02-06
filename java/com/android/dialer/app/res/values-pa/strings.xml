@@ -57,7 +57,7 @@
     <item quantity="one"><b>ਕੀ ਇਸ ਵੌਇਸਮੇਲ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ? </b></item>
     <item quantity="other"><b>ਕੀ ਇਹਨਾਂ ਵੌਇਸਮੇਲਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ? </b></item>
   </plurals>
-  <string name="voicemailCallLogTODAY">@string/call_log_header_today</string>
+  <string name="voicemailCallLogToday">@string/call_log_header_today</string>
   <string name="voicemailCallLogDateTimeFormat">%1$s ਨੂੰ %2$s ਵਜੇ</string>
   <string name="voicemailDurationFormat">%1$02d:%2$02d</string>
   <string name="voicemailCallLogDateTimeFormatWithDuration">%1$s • %2$s</string>
